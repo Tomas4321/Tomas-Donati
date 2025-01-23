@@ -32,9 +32,9 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Microservices System for Electric Scooter Rentals</h3>
+<h3 align="center">Microservices System for Electric Scooter Rentals Y una App Monolito</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/BUi8Z0I.jpg" width="400" alt="Microservices System for Electric Scooter Rentals"></a>
+<a href="https://github.com/mateomauro/tp1-entregable-arquitectura" target="_blank"><img src="https://i.imgur.com/BUi8Z0I.jpg" width="400" alt="Microservices System for Electric Scooter Rentals"></a>
 <p>
 <a href="https://github.com/mateomauro/microservicios_spring" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
