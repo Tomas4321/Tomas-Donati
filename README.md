@@ -14,7 +14,7 @@
 - 🔍 Actively seeking part-time or entry-level roles in software development. Let’s connect!  
 <br>
 
-## Proyects
+## projects
 <table>
 <tr>
 <td width="50%">
