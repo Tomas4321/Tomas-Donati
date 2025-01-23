@@ -5,7 +5,7 @@
 <img  src="https://i.imgur.com/F6lH7T9.png">
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo%20Mauro-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/tomas-donati-6368572a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomas%20Donati-blue?style=social&logo=Linkedin)](https://www.linkedin.com/in/tomas-donati-6368572a5/)
 
 
 ## About me
