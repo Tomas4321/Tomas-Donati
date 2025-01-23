@@ -67,7 +67,7 @@
                <br>
 <h3 align="center">Video Game Web Page</h3>
 <div align="center">                                       
-<a href="https://mateomauro.github.io/Interfaces/TP2/home.html" target="_blank"><img src="https://i.imgur.com/3N4wMu4.png" width="400" alt="Video Game Web Page"></a>
+<a href="https://github.com/Tomas4321/Interfaces/tree/main/TP2/home.html" target="_blank"><img src="https://i.imgur.com/3N4wMu4.png" width="400" alt="Video Game Web Page"></a>
 <br>
 <p>
 <a href="https://github.com/mateomauro/Interfaces" target="_blank">
