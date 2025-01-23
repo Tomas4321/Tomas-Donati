@@ -2,7 +2,7 @@
 <div>
 </div>
 <div">
-<img  src="https://i.imgur.com/CH0Bwmu.png">
+<img  src="https://i.imgur.com/F6lH7T9.png">
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo%20Mauro-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mateo-mauro/)
