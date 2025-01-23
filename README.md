@@ -10,7 +10,7 @@
 ## About me
 
 - 🎓 Graduate in Application Development (Técnico Universitario en Desarrollo de Aplicaciones Informáticas)  
-- 💻 Knowledge in Object-Oriented Programming, Data Structures, and Relational Databases. Experienced with Java, Spring Boot, javascript, and Git in collaborative projects.  
+- 💻 Conocimientos en programación orientada a objetos, estructuras de datos y bases de datos relacionales. Experiencia con Java, Spring Boot, javascript y Git en proyectos colaborativos con Metodologias Agile.  
 - 🔍 Actively seeking part-time or entry-level roles in software development. Let’s connect!  
 <br>
 
@@ -20,7 +20,7 @@
 <td width="50%">
 <h3 align="center">Spidey and His Amazing Friends</h3>
 <div align="center">
-<a href="https://mateomauro.github.io/Spidey/" target="_blank"><img src="https://i.imgur.com/4HQMAXm.png" width="400" objeti cover alt="Spidey and His Amazing Friends"></a>
+<a href="https://github.com/Tomas4321/Interfaces/tree/main/TP4" target="_blank"><img src="https://i.imgur.com/4HQMAXm.png" width="400" objeti cover alt="Spidey and His Amazing Friends"></a>
 <p>
 <a href="https://github.com/mateomauro/Spidey" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
